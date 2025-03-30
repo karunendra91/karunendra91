@@ -1,3 +1,4 @@
+![logo](https://github.com/karunendra91/karunendra91/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karunendra Singh Patel</h1>
 <h3 align="center">A passionate about frontend developer from India</h3>
 <img  src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" alt="coding" width="400" align="right">
